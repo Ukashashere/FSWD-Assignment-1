@@ -1,3 +1,3 @@
 # FSWD_Assignment_1
-![image](https://github.com/user-attachments/assets/52627dc2-ef1d-4472-b904-59de5eba65cf)
+![image](https://github.com/user-attachments/assets/1ef7b41e-cc47-4f53-a91a-267cc4eac51e)
 ## .
