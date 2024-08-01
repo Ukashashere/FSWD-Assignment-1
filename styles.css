@@ -15,12 +15,37 @@ h1{
     color: #333;
     height: 50px;
     font-size: xxx-large;
+    background-color: aquamarine;
 }
 
-h2, h3 {
+h2 {
+    display: flex;
+    color: #333;
+    background-color: antiquewhite;
+    font-size: larger;
+    padding-left: 450px;
+    font-size: x-large;
+}
+
+h3 {
     display: flex;
     color: #333;
 }
+
+h4 {
+    display: flex;
+    color: #333;
+    background-color: antiquewhite;
+}
+
+h5 {
+    display: flex;
+    color: #333;
+    background-color: antiquewhite;
+    font-size: large;
+}
+
+
 
 p {
     line-height: 1.6;
