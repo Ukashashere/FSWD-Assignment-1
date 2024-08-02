@@ -8,7 +8,7 @@ body {
 }
 
 .container{       /* class defined "conatiner" , it is for the whole page*/
-    max-width: 1280px;
+    max-width: 1220px;
     margin: 0 auto; 
   }
 
