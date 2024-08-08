@@ -81,7 +81,18 @@ h5 {
     font-size: large;
 }
 
+h6 {
+    display: flex;
+    color: #333;
+    background-color: antiquewhite;
+    font-size: large;
+}
 
+.img{
+    height: 500px;
+    align-content: center;
+    padding-left: 200px;
+}
 
 p {
     line-height: 1.6;
