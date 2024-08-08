@@ -34,7 +34,7 @@ h2 {
 
 .words1 {
     position: relative;
-    animation: move-words 6.5s linear infinite;
+    animation: move-words 0.5s linear infinite;
     margin: 0;
 }
 
